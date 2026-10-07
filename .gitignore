@@ -1,0 +1,8 @@
+# Power BI
+*.pbix.bak
+.pbi/
+~$*
+# Raw data (download from #BI_NGO repo)
+data/
+*.tsv
+*.csv

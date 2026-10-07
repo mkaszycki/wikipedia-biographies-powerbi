@@ -1,0 +1,48 @@
+{
+  "name": "Wikimedia Legacy",
+  "dataColors": [
+    "#0063BF",
+    "#339966",
+    "#990000",
+    "#0C57A8",
+    "#246342",
+    "#970302",
+    "#72777D",
+    "#A2A9B1"
+  ],
+  "foreground": "#202122",
+  "foregroundNeutralSecondary": "#54595D",
+  "foregroundNeutralTertiary": "#72777D",
+  "background": "#FFFFFF",
+  "backgroundLight": "#F8F9FA",
+  "backgroundNeutral": "#EAECF0",
+  "tableAccent": "#0063BF",
+  "good": "#339966",
+  "neutral": "#72777D",
+  "bad": "#990000",
+  "maximum": "#0C57A8",
+  "center": "#99C1E5",
+  "minimum": "#E6F0F9",
+  "textClasses": {
+    "title": {
+      "fontFace": "Source Serif 4, Georgia, serif",
+      "fontSize": 14,
+      "color": "#202122"
+    },
+    "header": {
+      "fontFace": "Source Serif 4, Georgia, serif",
+      "fontSize": 12,
+      "color": "#202122"
+    },
+    "callout": {
+      "fontFace": "Source Serif 4, Georgia, serif",
+      "fontSize": 32,
+      "color": "#0063BF"
+    },
+    "label": {
+      "fontFace": "Segoe UI, wf_segoe-ui_normal, helvetica, arial, sans-serif",
+      "fontSize": 10,
+      "color": "#54595D"
+    }
+  }
+}
